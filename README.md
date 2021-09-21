@@ -3,7 +3,7 @@
 My name is Ekin
 
 - 🔭 I’m currently working on Python, React, Cypress.io
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning Vue
 - 💬 You can ask me about Data Structures and Algorithms
 - 📫 How to reach me: [Contact Form](https://ekinkaradag.com/contact/), [LinkedIn](https://www.linkedin.com/in/ekinkaradag/?locale=en_US)
 
