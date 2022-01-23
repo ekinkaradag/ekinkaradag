@@ -11,3 +11,6 @@ Some of my web portfolio:
 - [Personal Website (Experimental GitHub Page)](https://ekinkaradag.github.io/)
 - [ROB_LOG](https://ekinkaradag.github.io/ROB_LOG/)
 - [Sample E-Commerce Website (In Progress)](https://ekinkaradag.github.io/sample-ecommerce/#/)
+
+[![Jason Gaylord's GitHub Stats](https://github-readme-stats.vercel.app/api/?username=ekinkaradag&count_private=true&theme=tokyonight&showicons=true&hide=contribs&show_icons=true&include_all_commits=true&line_height=24)]()
+[![Jason Gaylord's GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ekinkaradag&langs_count=6&layout=compact&theme=tokyonight)]()
