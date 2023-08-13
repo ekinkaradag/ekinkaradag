@@ -10,6 +10,7 @@ My name is Ekin
 Some of my web portfolio:
 - [Personal Website (Experimental GitHub Page)](https://ekinkaradag.github.io/)
 - [ROB_LOG](https://ekinkaradag.github.io/ROB_LOG/)
+- [Snake Vue3](https://ekinkaradag.github.io/snake-vue3/)
 - [Sample E-Commerce Website (In Progress)](https://ekinkaradag.github.io/sample-ecommerce/#/)
 
 [![Ekin Karadag's GitHub Stats](https://github-readme-stats.vercel.app/api/?username=ekinkaradag&count_private=true&theme=tokyonight&showicons=true&hide=contribs&show_icons=true&include_all_commits=true&line_height=24)](https://github.com/ekinkaradag)
