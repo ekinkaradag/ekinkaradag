@@ -2,8 +2,8 @@
 
 My name is Ekin
 
-- 🔭 I’m currently working on Python, React, Cypress.io
-- 🌱 I’m currently learning Vue
+- 🔭 I’m currently working on Python, Vue, Cypress.io
+  - Make sure to check out [ekinkaradag/snake-vue3](https://github.com/ekinkaradag/snake-vue3)
 - 💬 You can ask me about Data Structures and Algorithms
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ekinkaradag/?locale=en_US)
 
