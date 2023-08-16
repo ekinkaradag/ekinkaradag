@@ -15,3 +15,7 @@ Some of my web portfolio:
 
 [![Ekin Karadag's GitHub Stats](https://github-readme-stats.vercel.app/api/?username=ekinkaradag&count_private=true&theme=tokyonight&showicons=true&hide=contribs&rank_icon=github&include_all_commits=true&line_height=24)](https://github.com/ekinkaradag)
 [![Ekin Karadag's GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ekinkaradag&langs_count=6&layout=compact&theme=tokyonight)](https://github.com/ekinkaradag)
+
+<h4 align="center">View count :eyes:</h4>
+
+<p align="center"><img src="https://profile-counter.glitch.me/{ekinkaradag}/count.svg" alt="Ekin's View Count" /></p>
